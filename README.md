@@ -1,5 +1,5 @@
 # BufferOverflow automation
-
+![](https://raw.githubusercontent.com/1-off/BufferOverflow/main/bof_plan.png)
 
 ## introduction
 ### What is the memory stack
