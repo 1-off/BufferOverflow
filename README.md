@@ -7,6 +7,7 @@
 
 ### Registers
 ![](https://raw.githubusercontent.com/1-off/BufferOverflow/main/registers.png)
+- manipulation of the EIP means that you force the program to jump to a specific memory address and execute another function.
 
 ### Instructions
 ![](https://raw.githubusercontent.com/1-off/BufferOverflow/main/instructions.png)
